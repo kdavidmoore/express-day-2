@@ -1,5 +1,5 @@
-# Weather App Redux
+# Weather App: Express Edition
 
-Rebuilding the weather app from Unit2 using Express.
+This iteration of the Weather App is built with Node.js using Express.
 
 [I learned this at DigitalCrafts](https://www.digitalcrafts.com)
